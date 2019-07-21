@@ -5,6 +5,10 @@
 ## Build generated
 build/
 DerivedData/
+lib/iphoneos/
+lib/iphonesimulator/
+lib/libLinearAlgebraIPhone.a
+lib/libLinearAlgebraSimulator.a
 
 ## Various settings
 *.pbxuser
